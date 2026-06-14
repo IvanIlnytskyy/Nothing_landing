@@ -12,7 +12,7 @@ You can view a live demo of the project here: **[DEMO LINK](https://ivanilnytsky
 
 ## Project Description
 
-The Nothing Landing Page is a single-page website designed to showcase a modern audio product and provide users with detailed information about its features and specifications. The page includes sections dedicated to product highlights, technology, recommendations, specifications, customer testimonials, contact information, and frequently asked questions.
+The Nothing Landing Page is a single-page website designed to showcase a modern audio product and provide users with detailed information about its features and specifications. The page includes sections dedicated to product highlights, technology, recommendations, specifications, contact information, and frequently asked questions.
 
 The project focuses on responsive design, clean code structure, smooth user experience, and accessibility across different devices and screen sizes.
 
